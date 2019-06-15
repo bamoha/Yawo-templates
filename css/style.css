@@ -182,6 +182,10 @@ body{
     height: 90vh;
 }
 
+.blue-text{
+    color: #2275d2;
+}
+
 @media (max-width: 767px) and (max-width: 979px) {
 
     body{
